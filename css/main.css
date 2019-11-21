@@ -1,0 +1,151 @@
+.bg-light{
+  background-color:#FFF!important;
+}
+
+.intro{
+  background-image:  url(../img/ecole.jpg);
+  background-size: cover;
+    height: 70vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-weight: 70;
+    letter-spacing: 16px;
+    text-transform: uppercase;
+    color: white;
+}
+
+    .roundedImage{
+        overflow:hidden;
+        -webkit-border-radius:250px;
+        -moz-border-radius:250px;
+        border-radius:250px;
+        width:250px;
+        height:250px;
+        border: solid 4px white;
+      }
+
+.profil{
+font-family: 'Oswald', sans-serif;
+}
+
+.texxte1{
+  width:100%;
+}
+
+.image1{
+    width: 80%;
+    padding: 15px;
+}
+
+.image2{
+    width: 80%;
+    padding: 15px;
+}
+
+.image3{
+    width: 80%;
+    padding: 15px;
+}
+
+.texte1{
+  padding: 15px;
+  margin-bottom: 30px;
+}
+
+.texte2{
+    padding: 15px;
+  margin-bottom: 30px;
+}
+
+.texte3{
+    padding: 15px;
+  margin-bottom: 30px;
+}
+
+.facebook{
+  width:12%;
+
+}
+
+.linkedin{
+  width:9.6%;
+}
+
+.emlv{
+;
+  width:80%;
+}
+
+.solbridge{
+  margin-top:3%;
+  width:60%;
+    margin-bottom: 30px;
+}
+
+.toronto{
+
+  width:60%;
+    margin-bottom: 30px;
+}
+
+.emlvoui{
+  margin-top:10px;
+    padding: 15px;
+
+}
+
+.soolbridge{
+    margin-top:10px;
+      padding: 15px;
+
+}
+
+.tooronto{
+    margin-top:10px;
+      padding: 15px;
+
+}
+
+.competence1{
+  padding-right: 15px;
+  padding-left: 15px;
+  box-sizing: border-box;
+
+}
+
+.box1{
+padding: 15px;
+margin-bottom: 30px;
+}
+
+.photoshop{
+  width:30%;
+}
+
+.suiteoffice{
+  width:30%;
+}
+
+
+
+.section-title {
+    display: block;
+    position: relative;
+    margin-bottom: 60px;
+  }
+
+
+.contact1{
+      position: relative;
+    width: 100%;
+    min-height: 1px;
+    padding-right: 15px;
+    padding-left: 15px;
+}
+
+.contact_form{
+      border: 1px solid #ededed;
+    box-shadow: 0 5px 14px rgba(0, 0, 0, 0.1);
+    padding: 40px 30px;
+}
